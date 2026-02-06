@@ -8,9 +8,11 @@
 
 
 <url>
-  <loc>https://cucubola.com/</loc>
-  <lastmod>2026-01-14T11:14:48+00:00</lastmod>
-</url>
+    <loc>https://cucubola.com/</loc>
+    <lastmod>2026-02-06T17:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
 
 
 </urlset>
